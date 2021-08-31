@@ -7,7 +7,7 @@ This project is a basic task tracker with ability to add and delete tasks. Demon
 
 ## Instructions
 
-1. Clone this repo by running `git clone https://github.com/nolanworthy/react-practice.git task-tracker`.
+1. Fork this repo and clone it to a local repo.
 2. Install dependencies by running `npm install`.
 3. Start JSON server with `npm run server`.
 4. In a seperate terminal instance, start development server with `npm run start`.
